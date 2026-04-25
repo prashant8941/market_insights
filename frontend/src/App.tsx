@@ -1,7 +1,6 @@
-import './App.css'
 import { C1Chat, ThemeProvider } from '@thesysai/genui-sdk'
 import '@crayonai/react-ui/styles/index.css'
-import { useState, useCallback, useRef, useEffect } from 'react'
+import { useState, useCallback } from 'react'
 
 const RECOMMENDATIONS = [
   { icon: '📊', text: "Analyze the Indian stock market with today's key signals" },
