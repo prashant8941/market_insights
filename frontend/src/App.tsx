@@ -2,7 +2,7 @@ import { C1Chat, ThemeProvider } from '@thesysai/genui-sdk'
 import '@crayonai/react-ui/styles/index.css'
 import { useState, useCallback } from 'react'
 // updted fdfd
-
+// saved the file 
 const RECOMMENDATIONS = [
   { icon: '📊', text: "Analyze the Indian stock market with today's key signals" },
   { icon: '🧭', text: "Analyse Conditions of Large, Mid and Small Cap in Indian Market" },
